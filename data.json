@@ -25,5 +25,19 @@
     "nombre": "Mouse Gamer Logitech G Pro X Superlight Rojo",
     "precio": 127.799,
     "cantidad": 1
+},
+{
+    "id": 5,
+    "img": "https://mexx-img-2019.s3.amazonaws.com/Monitor-Gamer-55-Samsung-Curvo-Odyssey-4K-165Hz-1Ms-LS55BG970NL_44921_1.jpeg?v710?v132?v564",
+    "nombre": "Monitor Gamer 55 pulgadas Samsung Curvo Odyssey 4K 165Hz 1Ms LS55BG970NL",
+    "precio": 200.999,
+    "cantidad": 1
+},
+{
+    "id": 6,
+    "img": "https://mexx-img-2019.s3.amazonaws.com/auricular-blanco_40567_1.jpeg",
+    "nombre": "Auricular Gamer Logitech G335 Blanco",
+    "precio": 52.929,
+    "cantidad": 1
 }
 ]
